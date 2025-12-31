@@ -24,10 +24,10 @@ I plan to keep sharing these projects here as I learn and experiment more.
 
 This section includes **academic projects developed during my university studies**, mainly using **Python** and other tools required for coursework.
 
-These repositories reflect:
-- Problem-solving for engineering subjects  
-- Applied programming for analysis and automation  
-- Structured projects created as part of university assignments  
+Some of the projects include:
+- **myRIO project**:[Myrio_kontsola](https://github.com/martintxo333/Myrio_kontsola): programming with myRIO hardware  
+- **API projects**: [API_Portfolio_Martin](https://github.com/martintxo333/API_Portfolio_Martin), [API_txisteak](https://github.com/martintxo333/API_txisteak) building and using APIs for data processing  
+- **Pandas project**: [Ezpeletako_piperren_analisia](https://github.com/martintxo333/Ezpeletako_piperren_analisia) data analysis with Python
 
 ---
 
