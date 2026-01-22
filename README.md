@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-🌱 I'm Martin, I'm currently a student of the **Double Degree in Mechanical Engineering + Industrial Electronics and Automation Engineering** at **EHU (University of the Basque Country) – Donostia**.
+I'm Martin, I'm currently a student of the **Double Degree in Mechanical Engineering + Industrial Electronics and Automation Engineering** at **EHU (University of the Basque Country) – Donostia**.
 
 This GitHub profile is mainly a **learning space**. I use it to share academic projects from university, small personal experiments, and things I build out of curiosity while learning engineering.
 
