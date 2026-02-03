@@ -33,7 +33,9 @@ Some of the projects include:
 
 ## ⚙️ University & Technology Center Challenge
 
-I have also worked on a **learning project in collaboration with a technology research company and EHU**.
+I have also worked on a team project consisting of a **learning project in collaboration with a technology research company and EHU**.
+
+- **University & Technology Center team project**: [Arduino ERRONKA Project](https://github.com/martintxo333/Arduino-ERRONKA-project)
 
 The project involved:
 - **Monitoring a DC motor using Arduino**  
